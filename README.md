@@ -2,7 +2,7 @@
 
 # Welcome to Adithya's GitHub
 
-<img src="https://raw.githubusercontent.com/adithya-hmt/adithya-hmt/main/profile-banner.svg" alt="Minimal black and white mountain landscape" width="100%">
+<img src="https://raw.githubusercontent.com/adithya-hmt/adithya-hmt/main/twitter-header.jpeg" alt="Night river landscape header" width="100%">
 
 <a href="https://adhithya.com">WEBSITE</a> ·
 <a href="https://github.com/adithya-hmt">GITHUB</a> ·
