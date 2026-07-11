@@ -4,7 +4,7 @@
 
 # Adithya S
 
-### Computer Science student · Software builder · Linux user
+### Founder & CTO at Cerelytics · Computer Science student
 
 <a href="https://adhithya.com"><img src="https://img.shields.io/badge/Website-adhithya.com-242938?style=for-the-badge" alt="Website"></a>
 <a href="https://github.com/adithya-hmt"><img src="https://img.shields.io/badge/GitHub-adithya--hmt-242938?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -14,9 +14,9 @@
 
 ## About
 
-I’m a Computer Science student from Chennai, India. I build web applications, experiment with Linux systems, and work through the fundamentals: data structures, operating systems, databases, and networks.
+I’m the Founder and CTO of [Cerelytics](https://github.com/adithya-hmt), building practical software and leading the technical direction of the company.
 
-Currently building at **Cerelytics** and improving my C/C++, Python, Java, and TypeScript skills.
+My work spans product engineering, web applications, Linux systems, and the fundamentals that make reliable software possible: data structures, operating systems, databases, and networks.
 
 ## Tools
 
