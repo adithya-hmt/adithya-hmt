@@ -69,7 +69,7 @@ Notes and automation for exploring OpenBSD in a VM.
 
 <div align="center">
 
-![GitHub metrics](./github-metrics.svg)
+![GitHub metrics](https://raw.githubusercontent.com/adithya-hmt/adithya-hmt/main/github-metrics.svg)
 
 </div>
 
