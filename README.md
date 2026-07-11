@@ -1,78 +1,54 @@
 <div align="center">
 
-# Adithya S
+# Welcome to Adithya's GitHub
 
-### Computer Science student · Builder · Linux enthusiast
+<img src="https://raw.githubusercontent.com/adithya-hmt/adithya-hmt/main/profile-banner.svg" alt="Minimal black and white mountain landscape" width="100%">
 
-<a href="https://github.com/adithya-hmt"><img src="https://img.shields.io/github/followers/adithya-hmt?label=Followers&style=flat-square&color=181717" alt="GitHub followers"></a>
-<a href="https://adhithya.com"><img src="https://img.shields.io/badge/Website-adhithya.com-0f172a?style=flat-square" alt="Website"></a>
-<a href="mailto:adithya.claude@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-2563eb?style=flat-square" alt="Email"></a>
+<a href="https://adhithya.com">WEBSITE</a> ·
+<a href="https://github.com/adithya-hmt">GITHUB</a> ·
+<a href="mailto:adithya.claude@gmail.com">EMAIL</a>
 
 </div>
 
 ## About me
 
-I’m a Computer Science student from Chennai, India, interested in building useful software and understanding the systems underneath it.
+<div align="center">
 
-- Building products at **Cerelytics**
-- Learning data structures, algorithms, operating systems, and computer networks
-- Exploring AI systems, full-stack development, Linux, and self-hosted workflows
-- Currently running Omarchy / Hyprland on an HP EliteBook 840 G6
+Hello there! I’m Adithya, a Computer Science student from Chennai, India. I enjoy learning new technologies, building useful software, and understanding how systems work under the hood.
 
-## Featured projects
+Building products at **Cerelytics** · Exploring AI systems · Learning Linux and core computer science
 
-<table>
-<tr>
-<td width="50%">
+</div>
 
-### [Grama Arivu Civic ERP](https://github.com/adithya-hmt/grama-arivu-civic-erp)
-Civic technology and administrative tooling.
-
-</td>
-<td width="50%">
-
-### [MediAssist MCP](https://github.com/adithya-hmt/MediAssist-MCP)
-AI-assisted healthcare tooling built with Python.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [Adinix](https://github.com/adithya-hmt/adinix)
-Minimal NixOS and Home Manager starter configuration.
-
-</td>
-<td width="50%">
-
-### [OpenBSD VM Demo](https://github.com/adithya-hmt/openbsd-vm-demo)
-Notes and automation for exploring OpenBSD in a VM.
-
-</td>
-</tr>
-</table>
-
-## Tech I use
-
-<p>
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white" alt="Nix">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-</p>
-
-## GitHub metrics
+## Technologies
 
 <div align="center">
 
-![GitHub metrics](https://raw.githubusercontent.com/adithya-hmt/adithya-hmt/main/github-metrics.svg)
+`C/C++` · `Python` · `Java` · `TypeScript` · `React` · `Node.js` · `Git` · `Linux` · `Nix` · `Docker` · `SQLite`
+
+</div>
+
+## Selected projects
+
+<div align="center">
+
+<a href="https://github.com/adithya-hmt/grama-arivu-civic-erp">Grama Arivu Civic ERP</a> ·
+<a href="https://github.com/adithya-hmt/MediAssist-MCP">MediAssist MCP</a> ·
+<a href="https://github.com/adithya-hmt/adinix">Adinix</a> ·
+<a href="https://github.com/adithya-hmt/openbsd-vm-demo">OpenBSD VM Demo</a>
+
+</div>
+
+## Statistics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/adithya-hmt/adithya-hmt/main/github-metrics.svg" alt="Adithya's GitHub metrics" width="100%">
 
 </div>
 
 <div align="center">
-  <i>Keep learning. Keep building.</i>
+
+<i>Keep learning. Keep building.</i>
+
 </div>
