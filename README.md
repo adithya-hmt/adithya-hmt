@@ -65,11 +65,12 @@ Notes and automation for exploring OpenBSD in a VM.
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-## GitHub stats
+## GitHub metrics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adithya-hmt&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Adithya's GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-hmt&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
+
+![GitHub metrics](./github-metrics.svg)
+
 </div>
 
 <div align="center">
