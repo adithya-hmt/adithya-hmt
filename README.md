@@ -4,7 +4,7 @@
 
 # Adithya S
 
-### Founder & CTO at Cerelytics · Computer Science student
+### Founder & CTO at Cerelytic · Computer Science student
 
 <a href="https://adhithya.com"><img src="https://img.shields.io/badge/Website-adhithya.com-242938?style=for-the-badge" alt="Website"></a>
 <a href="https://github.com/adithya-hmt"><img src="https://img.shields.io/badge/GitHub-adithya--hmt-242938?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -14,7 +14,7 @@
 
 ## About
 
-I’m the Founder and CTO of [Cerelytics](https://github.com/adithya-hmt), building practical software and leading the technical direction of the company.
+I’m the Founder and CTO of [Cerelytic](https://github.com/adithya-hmt), building practical software and leading the technical direction of the company.
 
 My work spans product engineering, web applications, Linux systems, and the fundamentals that make reliable software possible: data structures, operating systems, databases, and networks.
 
